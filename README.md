@@ -33,3 +33,14 @@ To find out what `|:---` and `---:|` mean, look at one of the Markdown reference
 | Thanida Chaiwongnon | Dinner menu | @thanidacwn |
 
 | Siravich Termvadsayanon | Beverages | @koonwill |
+
+
+## Beverages
+| Item                     | Price(THB)  |
+|:-------------------------|:-----------:|
+| Water               | 6.00       |
+| Milk                 | 15.00       |
+| Americano      | 40.00       |
+| Espresso                 | 50.00       |
+
+
