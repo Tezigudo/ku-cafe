@@ -30,3 +30,4 @@ To find out what `|:---` and `---:|` mean, look at one of the Markdown reference
 |:----------|-----------|-----------------|
 | Preawpan Thamapipol | Breakfast menu | @Tezigudo |
 
+| Thanida Chaiwongnon | Dinner menu | @thanidacwn |
