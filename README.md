@@ -6,18 +6,18 @@ Section1 | Section2 | Section3 | ...
 You learned the Markdown to do this in the `git-commands` assignments.    
 **TODO**: Remove all the TODO lines, of course.
 
-## Drive-Thru
+## Night Food
 
 **TODO**: Replace this with the *actual* sections (plural) of the menu.  Each section should contain a **table** of menu items..    
 **TODO**: Your team should decide what the column headers should be and how to display prices. You want the menu sections to be consistent.
 
-Here is how to create a table using Markdown:
+|      Item      | Price(THB) |
+| :------------: | :--------: |
+| Instant Ramen  |   40.00    |
+| Instant Noodle |   20.00    |
+|     Pizza      |   250.00   |
+|     Steak      |   120.00   |
 
-| Column 1                 | Column 2 |
-|:-------------------------|----------|
-| Gasohol 91               | 36.28    |
-| Gasohol E20              | 35       |
-| Gasohol E85              | 32       |
 
 To find out what `|:---` and `---:|` mean, look at one of the Markdown references in the git-commands assignment 
 (or any Markdown summary).
@@ -26,10 +26,10 @@ To find out what `|:---` and `---:|` mean, look at one of the Markdown reference
 
 **TODO**: Each person add yourself to this table; Points **deducted** if one person adds everyone. Name means name, **no student ids**.
 
-| Name      | Role      | Github          |
-|:----------|-----------|-----------------|
-| Preawpan Thamapipol | Breakfast menu | @Tezigudo |
-| Thanadol  Udomsirinachai | Lunch menu | @ThanadolU |
-| Thanida Chaiwongnon | Dinner menu | @thanidacwn |
-| Isaraa Phadungprasertkul | Night food | @oMojiko |
-| Siravich Termvadsayanon | Beverages | @koonwill |
+| Name                     | Role           | Github      |
+| :----------------------- | -------------- | ----------- |
+| Preawpan Thamapipol      | Breakfast menu | @Tezigudo   |
+| Thanadol  Udomsirinachai | Lunch menu     | @ThanadolU  |
+| Thanida Chaiwongnon      | Dinner menu    | @thanidacwn |
+| Isaraa Phadungprasertkul | Night food     | @oMojiko    |
+| Siravich Termvadsayanon  | Beverages      | @koonwill   |
