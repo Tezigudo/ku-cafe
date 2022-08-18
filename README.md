@@ -13,9 +13,6 @@ Section1 | Section2 | Section3 | ...
 4. [Night](#)
 5. [Beverage](#)
 
- 
-**TODO**: Your team should decide what the column headers should be and how to display prices. You want the menu sections to be consistent. --> 
-
 ## Night Food
 
 |      Item      | Price(THB) |
@@ -25,7 +22,7 @@ Section1 | Section2 | Section3 | ...
 |     Pizza      |   250.00   |
 |     Steak      |   120.00   |
 
-=======
+
 
 ## Dinner Menu
 | Item                | Price(THB) |
@@ -34,6 +31,14 @@ Section1 | Section2 | Section3 | ...
 | Salmon Steak              | 99.00       |
 | Fried Rice              | 50.00      |
 | Chicken Soup | 80.00
+
+## Breakfast menu
+| Item               | Price(THB) |
+|:-----------------------|:----------:|
+| Breakfast Set          | 100.00|
+| Cheese                 | 30.00 |
+| Ham                    | 32.00 |
+| Double cheeseburger    | 80.00 |
 
 
 ## About Us
