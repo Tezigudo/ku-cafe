@@ -1,16 +1,9 @@
 # KU Cafe
 
-Section1 | Section2 | Section3 | ...
-
-
 ## Menu
-### Five time menu
+### Five time menu select
 
-1. [Breakfast](#)
-2. [Lunch](#)
-3. [Dinner](#)
-4. [Night](#)
-5. [Beverage](#)
+[Breakfast](#) | [Lunch](#) | [Dinner](#) | [Night](#) | [Beverage](#)
 
 ## Night Food
 
@@ -22,8 +15,9 @@ Section1 | Section2 | Section3 | ...
 |     Steak      |   120.00   |
 
 
-## Dinner Menu
 
+
+## Dinner menu
 | Item                | Price(THB) |
 |:-------------------------|:----------:|
 | Salad Rolls             | 60.00   |
@@ -38,7 +32,6 @@ Section1 | Section2 | Section3 | ...
 | Cheese                 | 30.00 |
 | Ham                    | 32.00 |
 | Double cheeseburger    | 80.00 |
-=======
 
 ## Lunch Menu
 | Item                     | Price(THB)  |
@@ -58,3 +51,4 @@ Section1 | Section2 | Section3 | ...
 | Thanida Chaiwongnon      | Dinner menu    | @thanidacwn |
 | Isaraa Phadungprasertkul | Night food     | @oMojiko    |
 | Siravich Termvadsayanon  | Beverages      | @koonwill   |
+
