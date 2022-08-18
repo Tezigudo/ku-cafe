@@ -13,11 +13,13 @@ You learned the Markdown to do this in the `git-commands` assignments.
 
 Here is how to create a table using Markdown:
 
-| Column 1                 | Column 2 |
-|:-------------------------|----------|
-| Gasohol 91               | 36.28    |
-| Gasohol E20              | 35       |
-| Gasohol E85              | 32       |
+## Beverages
+| Item                     | Price(THB)  |
+|:-------------------------|:-----------:|
+| Water               | 6.00       |
+| Milk                 | 15.00       |
+| Americano      | 40.00       |
+| Espresso                 | 50.00       |
 
 To find out what `|:---` and `---:|` mean, look at one of the Markdown references in the git-commands assignment 
 (or any Markdown summary).
@@ -33,14 +35,5 @@ To find out what `|:---` and `---:|` mean, look at one of the Markdown reference
 | Thanida Chaiwongnon | Dinner menu | @thanidacwn |
 
 | Siravich Termvadsayanon | Beverages | @koonwill |
-
-
-## Beverages
-| Item                     | Price(THB)  |
-|:-------------------------|:-----------:|
-| Water               | 6.00       |
-| Milk                 | 15.00       |
-| Americano      | 40.00       |
-| Espresso                 | 50.00       |
 
 
