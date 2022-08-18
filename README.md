@@ -55,6 +55,6 @@
 | :----------------------- | -------------- | ----------- |
 | Preawpan Thamapipol      | Breakfast menu | [Tezigudo](https://github.com/koonwill)   |
 | Thanadol  Udomsirinachai | Lunch menu     | [ThanadolU](https://github.com/ThanadolU)|
-| Thanida Chaiwongnon      | Dinner menu    | [thanidacwn]((https://github.com/thanidacwn)) |
+| Thanida Chaiwongnon      | Dinner menu    | [thanidacwn](https://github.com/thanidacwn) |
 | Isaraa Phadungprasertkul | Night food     | [oMojiko](https://github.com/oMojiko)    |
 | Siravich Termvadsayanon  | Beverages      | [koonwill](https://github.com/koonwill)   |
