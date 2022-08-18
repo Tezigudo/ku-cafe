@@ -16,7 +16,7 @@ Here is how to create a table using Markdown:
 ## Beverages
 | Item                     | Price(THB)  |
 |:-------------------------|:-----------:|
-| Water               | 6.00       |
+| Water                | 6.00       |
 | Milk                 | 15.00       |
 | Americano      | 40.00       |
 | Espresso                 | 50.00       |
