@@ -9,7 +9,8 @@ You learned the Markdown to do this in the `git-commands` assignments.
 ## Night Food
 
 **TODO**: Replace this with the *actual* sections (plural) of the menu.  Each section should contain a **table** of menu items..    
-**TODO**: Your team should decide what the column headers should be and how to display prices. You want the menu sections to be consistent.
+**TODO**: Your team should decide what the column headers should be and how to display prices. You want the menu sections to be consistent. -->
+
 
 |      Item      | Price(THB) |
 | :------------: | :--------: |
@@ -18,13 +19,18 @@ You learned the Markdown to do this in the `git-commands` assignments.
 |     Pizza      |   250.00   |
 |     Steak      |   120.00   |
 
+=======
 
-To find out what `|:---` and `---:|` mean, look at one of the Markdown references in the git-commands assignment 
-(or any Markdown summary).
+## Dinner Menu
+| Item                | Price(THB) |
+|:-------------------------|:----------:|
+| Salad Rolls             | 60.00   |
+| Salmon Steak              | 99.00       |
+| Fried Rice              | 50.00      |
+| Chicken Soup | 80.00
+
 
 ## About Us
-
-**TODO**: Each person add yourself to this table; Points **deducted** if one person adds everyone. Name means name, **no student ids**.
 
 | Name                     | Role           | Github      |
 | :----------------------- | -------------- | ----------- |
