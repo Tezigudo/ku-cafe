@@ -14,7 +14,7 @@ You learned the Markdown to do this in the `git-commands` assignments.
 <!-- <!-- Here is how to create a table using Markdown: -->
 
 | Item                | Price(THB) |
-|:-------------------------|----------|
+|:-------------------------|:----------:|
 | Salad Rolls             | 60.00   |
 | Salmon Steak              | 99.00       |
 | Fried Rice              | 50.00      |
