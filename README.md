@@ -3,7 +3,6 @@
 Section1 | Section2 | Section3 | ...
 
 
-=======
 ## Menu
 ### Five time menu
 
@@ -23,8 +22,8 @@ Section1 | Section2 | Section3 | ...
 |     Steak      |   120.00   |
 
 
-
 ## Dinner Menu
+
 | Item                | Price(THB) |
 |:-------------------------|:----------:|
 | Salad Rolls             | 60.00   |
@@ -39,6 +38,15 @@ Section1 | Section2 | Section3 | ...
 | Cheese                 | 30.00 |
 | Ham                    | 32.00 |
 | Double cheeseburger    | 80.00 |
+=======
+
+## Lunch Menu
+| Item                     | Price(THB)  |
+|:-------------------------|:-----------:|
+| Pad Kaprao               | 40.00       |
+| Pad Thai                 | 45.00       |
+| Green Curry Chicken      | 50.00       |
+| Kao Phad                 | 35.00       |
 
 
 ## About Us
