@@ -15,6 +15,13 @@
 |     Steak      |   120.00   |
 
 
+## Beverages
+| Item                     | Price(THB)  |
+|:-------------------------|:-----------:|
+| Water               | 6.00       |
+| Milk                 | 15.00       |
+| Americano      | 40.00       |
+| Espresso                 | 50.00       |
 
 
 ## Dinner menu
@@ -51,4 +58,3 @@
 | Thanida Chaiwongnon      | Dinner menu    | @thanidacwn |
 | Isaraa Phadungprasertkul | Night food     | @oMojiko    |
 | Siravich Termvadsayanon  | Beverages      | @koonwill   |
-
